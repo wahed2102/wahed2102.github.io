@@ -1,0 +1,111 @@
+.imageBox {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: -20px;
+}
+
+#profile-img {
+  height: 200px;
+  width: 200px;
+  border: 10px solid #529ceb;
+  object-fit: cover;
+}
+
+.bg-black {
+  background-color: rgba(233, 236, 239, 0);
+}
+
+.intro-font {
+  font-family: "Kodchasan";
+  color: #707070;
+}
+
+.profession-head-font {
+  color: #529ceb;
+  font-family: "Kodchasan";
+}
+
+.kodchasan-font {
+  font-family: "Kodchasan";
+}
+
+.social-media-circles {
+  width: 111px;
+  padding: 12px;
+}
+
+.social-media-circles-redux {
+  width: 111px;
+  padding: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+}
+
+.social-media-circle-firebase {
+  width: 111px;
+  padding: 12px;
+  height: 111px;
+}
+
+.bg-529ceb {
+  background-color: #529ceb;
+}
+
+.color-529ceb {
+  color: #529ceb;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-light-grey {
+  color: rgb(116, 121, 124);
+}
+
+.m-top-react {
+  margin-top: 35px;
+}
+
+.proficiencies-react {
+  width: 105px;
+}
+
+.proficiencies-frontend {
+  width: 93px;
+  height: 120px;
+}
+
+.proficiencies-dsa {
+  height: 110px;
+}
+
+.ht-25 {
+  height: 25px;
+}
+
+.masai-learnings {
+  height: 220px;
+  width: 220px;
+  border: 15px solid #529ceb;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.card:hover {
+  -webkit-box-shadow: 10px 11px 14px -6px rgba(102, 95, 102, 0.78);
+  -moz-box-shadow: 10px 11px 14px -6px rgba(102, 95, 102, 0.78);
+  box-shadow: 10px 11px 14px -6px rgba(102, 95, 102, 0.78);
+}
+
+.headings {
+  border: 2px dashed grey;
+  border-radius: 15px;
+}
+
+.masai-border {
+  border-radius: 15px;
+}
